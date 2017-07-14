@@ -1,3 +1,9 @@
 1.写测试（20min）
-2.写代码(20min)
+9种情况
+input:numer，a,b,c:number,number,number,number
+output:string/number
+2.写代码:实现游戏功能(20min)
+input:number,a,b,c
+output:string/number
 3.重构（5min）
+
